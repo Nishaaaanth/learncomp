@@ -50,3 +50,21 @@ n*(n+1)*(2n+1)/6;
 ```
 
 ### Reverse (Recurse) -> Do again
+
+### prime
+```c
+6k-1 or 6k+1
+```
+
+### Power check
+```c
+log(x)/log(y);
+```
+
+### Distance Calculation gives out floating point number
+```c
+static_cast<int> //instead of (x*1.0)
+
+//or round it out
+round()
+```
