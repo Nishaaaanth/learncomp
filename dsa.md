@@ -50,6 +50,9 @@ n*(n+1)*(2n+1)/6;
 ```
 
 ### Reverse (Recurse) -> Do again
+### Power Check (log(N)) -> Do again
+### Overlapping Rectangle -> Do again
+### GCD -> Do again
 
 ### prime
 ```c
