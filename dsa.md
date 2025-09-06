@@ -53,6 +53,8 @@ n*(n+1)*(2n+1)/6;
 ### Power Check (log(N)) -> Do again
 ### Overlapping Rectangle -> Do again
 ### GCD -> Do again
+### isPerfect -> Do again
+### Calendar Problems -> Learn the concept
 
 ### prime
 ```c
