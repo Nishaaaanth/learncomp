@@ -55,6 +55,7 @@ n*(n+1)*(2n+1)/6;
 ### GCD -> Do again
 ### isPerfect -> Do again
 ### Calendar Problems -> Learn the concept
+### Fibonacci -> Learn all the methods
 
 ### prime
 ```c
