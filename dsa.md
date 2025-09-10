@@ -74,3 +74,11 @@ static_cast<int> //instead of (x*1.0)
 //or round it out
 round()
 ```
+
+### Bitwise Logic
+```c
+n&1  // n%2 => checks the least significant bit. If it's 1 it's odd if not it's even
+n>>1 // n/2 => shifts the value to the right by 1 bit thereby reducing the value by 2
+n<<2 // n*2 => shifts to left meaning multiplying by 2
+
+```
